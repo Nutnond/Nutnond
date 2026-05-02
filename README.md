@@ -28,7 +28,7 @@
 ## 🛠 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,vue,nuxtjs,nodejs,express,mysql,postgres,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=js,ts,dotnet,java,python,vue,nuxtjs,nodejs,express,mysql,postgres,docker,linux,git" />
 </p>
 
 ---
