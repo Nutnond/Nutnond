@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Non👋;Software+Developer;HealthTech+Builder;Mentor+%26+Innovator" />
 </p>
 
-<h1 align="center">🚀 Welcome to My World</h1>
+<h1 align="center">🚀 Welcome to My Github</h1>
 
 <p align="center">
   💻 Developer @ Naresuan University Hospital <br/>
