@@ -35,15 +35,3 @@
 
 ---
 
-## 📫 Connect
-
-<p align="center">
-  <a href="mailto:your_email@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <i>Code. Impact. Repeat.</i>
-</p>
